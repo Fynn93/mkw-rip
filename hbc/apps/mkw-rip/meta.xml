@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>MKW Ripper</name>
+	<coder>Fynn93</coder>
+	<version>v1.0</version>
+	<release_date>20210719240000</release_date>
+	<short_description>Dumps Mario Kart Wii Files!</short_description>
+	<long_description>This app will dump the files from Mario Kart Wii which can be used with many tools.</long_description>
+</app>
